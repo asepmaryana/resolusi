@@ -1,0 +1,5 @@
+Membuat contoh kasus Aplikasi Laravel :
+#Aplikasi Siswaku
+- CRUD siswa
+- CRUD pelajaran
+- CRUD nilai
