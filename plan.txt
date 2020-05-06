@@ -1,0 +1,5 @@
+Beberapa rencana resolusi tahun ini adalah : 
+1. Belajar PHP Framework
+2. Belajar ASP.NET Core MVC
+3. Belajar Konsep Dasar GIS
+4. Belajar JavaScript Framework
